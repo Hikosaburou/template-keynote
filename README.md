@@ -1,4 +1,4 @@
-template-Keynote
+template-keynote
 ================
 
-研究発表用のKeynoteテンプレート
+研究発表用のKeynoteテンプレート.
